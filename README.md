@@ -5,6 +5,7 @@ Welcome to the Ark Technology Solutions repository. This repository contains the
 ## Table of Contents
 
 - [Projects](#projects)
+  - [Ark Brain](#ark-brain)
   - [Tobias](#tobias)
   - [Ark Logistics](#ark-logistics)
   - [Cake](#cake)
